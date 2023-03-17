@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hey, I'm Toni! 
 
-<!--
-**ajlozano/ajlozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-driven iOS developer based in Barcelona.
 
-Here are some ideas to get you started:
+I left electronic engineering industry to start a journey in App development. Starting to develop Android Apps with Kotlin, I decided to spend most of my time to learn and improve my skills creating iOS Apps with Swift and Xcode.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Swift lover.
+- 🎮 Hobbist gamedev with **Unity** and **C#**.
+- 🎸 Music and guitar enthusiast.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonilozano/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=toni%20lozano&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Anthonayer"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Anthonayer&color=green&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ajlozano/Portfolio"><img src="https://img.shields.io/static/v1?label=Portfolio&message=Toni%20Lozano&color=red&style=for-the-badge&logo=github&logoColor=white"></a>
+</p><br>
