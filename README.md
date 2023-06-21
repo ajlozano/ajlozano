@@ -5,7 +5,7 @@ I am a self-driven iOS developer based in Barcelona.
 I left electronic engineering industry to start a journey in App development. Starting to develop Android Apps with Kotlin, I decided to spend most of my time to learn and improve my skills creating iOS Apps with Swift and Xcode.
 
 - 📱 Swift lover.
-- 🎮 Hobbist gamedev with **Unity** and **C#**.
+- 🎮 Passionate gamedev with **Unity** and **C#**.
 - 🎸 Music and guitar enthusiast.
 
 <p align="center">
